@@ -159,6 +159,11 @@
             "foreground": "var(green)",
         },
         {
+            "name": "Markup inline code",
+            "scope": "markup.raw.inline",
+            "foreground": "var(blue)",
+        },
+        {
             "name": "Markup numbered list bullet",
             "scope": "markup.list.numbered.bullet",
             "foreground": "var(red)",

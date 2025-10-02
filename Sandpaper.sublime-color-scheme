@@ -159,6 +159,16 @@
             "foreground": "var(green)",
         },
         {
+            "name": "Markup numbered list bullet",
+            "scope": "markup.list.numbered.bullet",
+            "foreground": "var(red)",
+        },
+        {
+            "name": "Markup blockquote",
+            "scope": "markup.quote punctuation.definition.blockquote",
+            "foreground": "var(red)",
+        },
+        {
             "name": "Markup bold",
             "scope": "markup.bold",
             "font_style": "bold",
@@ -192,16 +202,6 @@
             "name": "Markup bold/italic/underline",
             "scope": "markup.bold markup.italic markup.underline | markup.bold markup.underline markup.italic | markup.italic markup.bold markup.underline | markup.italic markup.underline markup.bold | markup.underline markup.bold markup.italic | markup.underline markup.italic markup.bold",
             "font_style": "bold italic underline",
-        },
-        {
-            "name": "Markup numbered list bullet",
-            "scope": "markup.list.numbered.bullet",
-            "foreground": "var(red)",
-        },
-        {
-            "name": "Markup blockquote",
-            "scope": "markup.quote punctuation.definition.blockquote",
-            "foreground": "var(red)",
         },
         {
             "scope": "message.error",

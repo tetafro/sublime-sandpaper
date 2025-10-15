@@ -112,6 +112,11 @@
             "foreground": "var(red)",
         },
         {
+            "name": "Interpolation parameters",
+            "scope": "meta.interpolation.parameter variable",
+            "foreground": "var(red)",
+        },
+        {
             "name": "Label name",
             "scope": "entity.name.label",
             "foreground": "var(brown)",

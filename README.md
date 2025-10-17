@@ -1,7 +1,7 @@
 # Sandpaper
 
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/tetafro/sublime-sandpaper/master/LICENSE)
-[![Release](https://img.shields.io/github/tag/tetafro/sublime-sandpaper.svg)](https://github.com/tetafro/sublime-sandpaper/releases)
+[![Release](https://img.shields.io/github/tag/tetafro/sublime-sandpaper.svg)](https://github.com/tetafro/sublime-sandpaper/tags)
 
 A light color scheme for Sublime Text.
 

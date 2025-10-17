@@ -84,7 +84,7 @@
         {
             "name": "Operators",
             "scope": "keyword.operator",
-            "foreground": "var(gray)",
+            "foreground": "var(blue)",
         },
         {
             "name": "Punctuation",

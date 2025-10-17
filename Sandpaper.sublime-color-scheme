@@ -4,7 +4,7 @@
     "variables": {
         "white": "hsl(30, 10%, 95%)",
         "black": "hsl(210, 20%, 25%)",
-        "gray": "hsl(210, 20%, 65%)",
+        "gray": "hsl(210, 20%, 60%)",
         "gray2": "hsl(210, 20%, 90%)",
         "gray3": "hsl(210, 20%, 85%)",
         "gray4": "hsla(210, 20%, 85%, 0.8)",
@@ -84,7 +84,12 @@
         {
             "name": "Operators",
             "scope": "keyword.operator",
-            "foreground": "var(red)",
+            "foreground": "var(gray)",
+        },
+        {
+            "name": "Punctuation",
+            "scope": "punctuation - punctuation.definition.string",
+            "foreground": "var(gray)",
         },
         {
             "name": "Storage",

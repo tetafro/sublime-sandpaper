@@ -19,8 +19,9 @@ A light color scheme for Sublime Text.
 ## Development
 
 To easily make changes, create a link in the user packages directory
-```
-ln -s sublime-sandpaper/Sandpaper.sublime-color-scheme \
+```sh
+cd sublime-sandpaper
+ln -s $(pwd)/Sandpaper.sublime-color-scheme \
     ~/.config/sublime-text/Packages/User/Test.sublime-color-scheme
 ```
 

@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/tetafro/sublime-sandpaper/master/LICENSE)
 [![Release](https://img.shields.io/github/tag/tetafro/sublime-sandpaper.svg)](https://github.com/tetafro/sublime-sandpaper/tags)
 
-A light color scheme for Sublime Text.
+A simple light color scheme for Sublime Text.
 
 ## Screenshots
 
@@ -15,14 +15,3 @@ A light color scheme for Sublime Text.
 1. Open Command Palette using `Tools > Command Palette...` or `Cmd/Ctrl+Shift+P`.
 1. Choose `Package Control: Install Package`.
 1. Find `Sandpaper Color Scheme` and hit `Enter`.
-
-## Development
-
-To easily make changes, create a link in the user packages directory
-```sh
-cd sublime-sandpaper
-ln -s $(pwd)/Sandpaper.sublime-color-scheme \
-    ~/.config/sublime-text/Packages/User/Test.sublime-color-scheme
-```
-
-Then switch to this testing scheme: Ctrl+Shift+P - UI: Select Color Scheme - Test
